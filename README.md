@@ -3,4 +3,4 @@ Build a simple and animated modal popup in React using Material UI. Modals are a
 
 ## Tutorial
 
-[Create React Modal Popup with Material UI](https://www.positronx.io/create-react-modal-popup-with-material-ui/).# react-modal-material-ui
+[Create React Modal Popup with Material UI](https://www.positronx.io/create-react-modal-popup-with-material-ui/).
